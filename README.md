@@ -5,7 +5,7 @@
 ---
 
 ## 👥 Project Overview & Authors
-* **Authors:** Iqra Hamayoun, Eman Aslam
+* **members:** Iqra Hamayoun, Eman Aslam
 * **Program:** Bachelor of Science in Software Engineering (BSSE)
 * **Institution:** University of Management and Technology (UMT), Sialkot Campus
 * **Course:** Natural Language Processing (NLP)
